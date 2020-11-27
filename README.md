@@ -2,7 +2,7 @@
 This is an (unofficial) Remarkable Cloud API Client written in Python.
 
 
-### API Support
+## API Support
 
 * ☑️ List content in the cloud
 * ☑️ Work with documents & folders
@@ -14,4 +14,6 @@ This is an (unofficial) Remarkable Cloud API Client written in Python.
 * ❎ cli interface
 * ❎ export pdf with annotations
 
+## Reuses
 
+- [remarkable-automator](https://github.com/adipasquale/remarkable-automator/): Mac OS Automator Workflow to auto-upload downloaded EPUB
